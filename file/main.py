@@ -1,5 +1,6 @@
 import insert
 import query
+import os
 while True:
     choice =int(input("(1)新增病患資料(2)查詢病患資料(3)結束程式："))
     if choice ==1:
@@ -17,3 +18,4 @@ while True:
         break
     else:
         print("無效指令！")
+os.system("pause")

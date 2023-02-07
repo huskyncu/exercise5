@@ -2,4 +2,4 @@
 
 先下載，然後進到dist/main 底下找到main.exe 點下去執行
 
-{%youtube xSvlXNm3Kio %}
+[demo影片](https://www.youtube.com/watch?v=xSvlXNm3Kio)
